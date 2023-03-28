@@ -43,6 +43,7 @@ a:visited {
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: black;
+  border: 2px solid blue;
   overflow: hidden;
   font-family: 'Noto Sans';
 }
