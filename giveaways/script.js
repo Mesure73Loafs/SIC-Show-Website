@@ -10,6 +10,8 @@ input.addEventListener("keypress", function(event) {
     // Trigger the button element with a click
     document.getElementById("enter").click();
   }
+
+  window.onbeforeunload = function() { return 1; }
 });
 
 function enter() {
