@@ -29,6 +29,10 @@ Enter Giveaway | Contains a box to type in a giveaway code | [/giveaways](https:
 The current update and planned updates.
 
 ### Current Update
+* Changed mobile navbar width to 723 from 600
+* Added previous update to readme
+
+### Previous Update
 
 * Added readme
   * Added basic sections
