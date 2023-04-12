@@ -1,6 +1,6 @@
 function aboutReadMore() {
-  window.location.href = `/about`
+  window.location.href = `${window.location.}/about`
 }
 function sponsorReadMore() {
-  window.location.href = `/sponsor`
+  window.location.href = `${window.location}/sponsor`
 }

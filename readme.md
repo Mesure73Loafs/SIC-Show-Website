@@ -28,21 +28,15 @@ Enter Giveaway | Contains a box to type in a giveaway code | [/giveaways](https:
 
 The current update and planned updates.
 
-### Current Update
+### Current Update (Commit 15)
+
+* Fixed GitHub bug with JavaScript redirects
+* Added Commit # to readme update info
+
+### Previous Update (Commit 14)
+
 * Changed mobile navbar width to 723 from 600
 * Added previous update to readme
-
-### Previous Update
-
-* Added readme
-  * Added basic sections
-  * Added details for each section
-* Favicon changed to a higher resolution image
-  * Changed .ico to .png
-  * Made the favicon 500x500 instead of 16x16
-* Added [/home](https://mesure73loafs.github.io/SIC-Show-Website/home/) to redirect to the homepage
-* Made JavaScript redirects more efficient
-  * Changed it to not include `window.location` in the string
 
 ### Planned Updates
 
