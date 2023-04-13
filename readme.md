@@ -28,15 +28,14 @@ Enter Giveaway | Contains a box to type in a giveaway code | [/giveaways](https:
 
 The current update and planned updates.
 
-### Current Update (Commit 15)
+### Current Update (Commit 16)
+
+* Fixed bug in about preview button
+
+### Previous Update (Commit 15)
 
 * Fixed GitHub bug with JavaScript redirects
 * Added Commit # to readme update info
-
-### Previous Update (Commit 14)
-
-* Changed mobile navbar width to 723 from 600
-* Added previous update to readme
 
 ### Planned Updates
 
